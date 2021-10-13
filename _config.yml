@@ -1,10 +1,20 @@
-title: "Blog Title"
-author: "Blog Author"
-description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
+title: "Caffeinated Python"
+#author: "Blog Author"
+description: "Never enough coffee"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
+url: "https://caffeinatedpython.github.io"
+
+# Social Profiles
+twitter_username:
+github_username:
+facebook_username:
+instagram_username:
+linkedin_username:
+
+
 
 # Layout
 
@@ -30,3 +40,5 @@ comments:
 
 plugins:
  - jekyll-feed
+
+#bundle exec jekyll serve
